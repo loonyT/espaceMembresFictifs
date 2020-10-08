@@ -4,13 +4,10 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Must have features](#mustHavefeatures)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Steps](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 
 
@@ -42,7 +39,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://loonyt.github.io/espaceMembresFictifs/.
 
 
 
